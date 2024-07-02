@@ -1,5 +1,7 @@
 # Dynamic Azure Data Factory Pipeline with CI/CD
 
+[PDF Overview](https://github.com/halikowski/Azure-Rebrickable/blob/main/Azure_dynamic_pipeline_with_CICD.pdf)
+
 The idea of this project originated from taking the course of Azure Data Engineer Associate certification on Microsoft Learning platform. As an addition to everyday learning, I decided to practice the skills and test features on my own in the Azure environment.
 
 This project focuses on building a dynamic, scalable pipeline in Azure Data Factory together with the incorporation of CI/CD in Azure DevOps.
